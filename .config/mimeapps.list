@@ -1,0 +1,7 @@
+[Added Associations]
+application/octet-stream=exo-file-manager.desktop;
+application/vnd.debian.binary-package=gnome-software-local-file.desktop;
+application/x-shellscript=mousepad.desktop;
+image/vnd.zbrush.pcx=exo-file-manager.desktop;
+application/x-ms-dos-executable=engrampa.desktop;
+text/plain=mousepad.desktop;

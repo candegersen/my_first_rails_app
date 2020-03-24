@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///media/candeger/VBox_GAs_6.1.4/VBoxWindowsAdditions.exe" added="2020-03-23T10:32:47Z" modified="2020-03-23T10:32:48Z" visited="2020-03-23T10:32:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Engrampa" exec="&apos;engrampa&apos;" modified="2020-03-23T10:32:48Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/candeger/VBox_GAs_6.1.4/VBoxWindowsAdditions-amd64.exe" added="2020-03-23T10:32:58Z" modified="2020-03-23T10:32:58Z" visited="2020-03-23T10:32:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Engrampa" exec="&apos;engrampa&apos;" modified="2020-03-23T10:32:58Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/candeger/VBox_GAs_6.1.4/VBoxWindowsAdditions-x86.exe" added="2020-03-23T10:38:58Z" modified="2020-03-23T10:38:58Z" visited="2020-03-23T10:38:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Engrampa" exec="&apos;engrampa&apos;" modified="2020-03-23T10:38:58Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_candeger0/code_1.43.1-1584515895_amd64.deb" added="2020-03-23T13:19:46Z" modified="2020-03-23T13:19:46Z" visited="2020-03-23T13:19:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-23T13:19:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/candeger/Downloads/code_1.43.1-1584515895_amd64.deb" added="2020-03-23T13:25:13Z" modified="2020-03-23T13:25:13Z" visited="2020-03-23T13:25:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-23T13:25:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/candeger/Desktop" added="2020-03-23T13:45:47Z" modified="2020-03-23T13:45:47Z" visited="2020-03-23T13:45:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-03-23T13:45:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/candeger/test.txt" added="2020-03-23T13:48:12Z" modified="2020-03-23T14:11:47Z" visited="2020-03-23T13:48:13Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-03-23T14:11:47Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/candeger/text.txt" added="2020-03-23T14:16:47Z" modified="2020-03-23T14:16:47Z" visited="2020-03-23T14:16:47Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-03-23T14:16:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
